@@ -8,4 +8,8 @@ Testing -u flag
 let's see again
 Another change to the main
 
+<<<<<<< HEAD
 I will join at MFile on 1st of December .
+=======
+changed
+>>>>>>> newupstream
